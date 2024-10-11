@@ -1,5 +1,6 @@
 # Desafio_Dashboard_Financeiro
 ## Repositório criado para o Dashboard Financeiro. 
+### Links de visualização disponíveis.
 
 ### Arquivo em PDF para análise dos dados e visualização:
 - Média de preço de venda e descontos;
@@ -19,3 +20,10 @@
 - [PRIMEIRO Desafio_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiMjM5ZTQ1MzEtYTU4Zi00ZDExLWFlN2UtNzVkMjUxYWQ2MGJkIiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
 
 - [SEGUNDO Desafio_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZjliN2Q2OGEtOTg2NC00MWQ3LWJjOTItNGM5MjQyOGNmNTE4IiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
+
+
+### Itens explorados nos desafios:
+- Estruturação bem definida; 
+- Botões de navegação que fornecem navegabilidade; 
+- Segmentadores utilizados e botões com imagem associado;
+- Uso de indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto.
