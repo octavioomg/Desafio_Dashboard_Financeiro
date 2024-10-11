@@ -13,3 +13,9 @@
 - Lucro por segmento
 
 ### Aplicação de relatórios visuais para facilitar a tomada de decisão.
+
+### LINKS DE ACESSO
+
+- [PRIMEIRO Desafio_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiMjM5ZTQ1MzEtYTU4Zi00ZDExLWFlN2UtNzVkMjUxYWQ2MGJkIiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
+
+- [SEGUNDO Desafio_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZjliN2Q2OGEtOTg2NC00MWQ3LWJjOTItNGM5MjQyOGNmNTE4IiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
