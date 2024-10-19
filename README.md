@@ -27,3 +27,6 @@
 - Botões de navegação que fornecem navegabilidade; 
 - Segmentadores utilizados e botões com imagem associado;
 - Uso de indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto.
+
+### Criando Modelo Star Schema
+- Para aprimorar os conceitos de modelagem dimensional, foram atualizados os relacionamentos entre tabelas para o modelo Star Schema, onde é feito uma tabela principal, chamada Fato e outras tabelas adicionais com detalhes, chamadas de tabelas dimensões.
