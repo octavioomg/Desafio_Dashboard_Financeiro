@@ -1,4 +1,4 @@
-# Desafio_Dashboard_Financeiro
+# Desafios - Criando Dashboards Financeiro
 ## Repositório criado para o Dashboard Financeiro. 
 ### Links de visualização disponíveis.
 
@@ -21,6 +21,7 @@
 
 - [SEGUNDO Desafio_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZjliN2Q2OGEtOTg2NC00MWQ3LWJjOTItNGM5MjQyOGNmNTE4IiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
 
+- [V2_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiMjcyYTcxYjAtZmVlNy00NGRkLWFhODItMTQzYTY4MDY4NDEyIiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
 
 ### Itens explorados nos desafios:
 - Estruturação bem definida; 
@@ -28,5 +29,9 @@
 - Segmentadores utilizados e botões com imagem associado;
 - Uso de indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto.
 
-### Criando Modelo Star Schema
+### Criando Modelo Star Schema:
 - Para aprimorar os conceitos de modelagem dimensional, foram atualizados os relacionamentos entre tabelas para o modelo Star Schema, onde é feito uma tabela principal, chamada Fato e outras tabelas adicionais com detalhes, chamadas de tabelas dimensões.
+
+### Aprimorando relatório com funções DAX:
+- Aplicando os conceitos de fórmulas no Power BI para criar um relatório com tabela dimensão de data.
+- Desenvolvido métodos para criação de medidas e colunas calculadas com condições.
