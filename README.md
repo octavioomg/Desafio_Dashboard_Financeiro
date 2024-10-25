@@ -23,6 +23,8 @@
 
 - [V2_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiMjcyYTcxYjAtZmVlNy00NGRkLWFhODItMTQzYTY4MDY4NDEyIiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
 
+- [UX_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiMTY0NWM3OTYtMmVlYy00MWQwLWE0MmMtODkyYWU0ZDI3NTVjIiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
+  
 ### Itens explorados nos desafios:
 - Estruturação bem definida; 
 - Botões de navegação que fornecem navegabilidade; 
@@ -35,3 +37,8 @@
 ### Aprimorando relatório com funções DAX:
 - Aplicando os conceitos de fórmulas no Power BI para criar um relatório com tabela dimensão de data.
 - Desenvolvido métodos para criação de medidas e colunas calculadas com condições.
+
+### Criando e otimizando a Experiencia de Usuário através de ícones interativos e acessíveis:
+- Realizado adaptações e melhorias dentro do relatório;
+- Feito para auxiliar no processo de uso e entendimento dos dados;
+- UX necessário para inclusão e recepção a qualquer usuário que for visualizar o relatório.
