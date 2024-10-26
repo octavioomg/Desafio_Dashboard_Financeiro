@@ -2,7 +2,7 @@
 ## Repositório criado para o Dashboard Financeiro. 
 ### Links de visualização disponíveis.
 
-### Relatório de Análise Financeira para fixação de conteúdos com:
+## Relatório de Análise Financeira para fixação de conteúdos com:
 - Média de preço de venda e descontos;
 - Vendas realizadas no período informado;
 - Quantidade de vendas de produtos;
@@ -13,7 +13,7 @@
 - Soma de lucro (profit) por país
 - Lucro por segmento
 
-### Aplicação de relatórios visuais para facilitar a tomada de decisão.
+## Aplicação de relatórios visuais para facilitar a tomada de decisão.
 
 ### LINKS DE ACESSO
 
@@ -46,9 +46,9 @@
 - UX necessário para inclusão e recepção a qualquer usuário que for visualizar o relatório.
 
 ### Aplicando Análise de Dados com Power BI:
--	Visuais sobre os TOP3 Produtos
--	Principais países em termos de vendas e profit
--	Gráfico de dispersão sobre Unidades vendidas e Vendas por mês
--	Visuais de agrupamentos de dados
--	Visuais de compartimentação dos dados
+-	Visuais sobre os TOP3 Produtos;
+-	Principais países em termos de vendas e profit;
+-	Gráfico de dispersão sobre Unidades vendidas e Vendas por mês;
+-	Visuais de agrupamentos de dados;
+-	Visuais de compartimentação dos dados.
 
