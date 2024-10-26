@@ -2,7 +2,7 @@
 ## Repositório criado para o Dashboard Financeiro. 
 ### Links de visualização disponíveis.
 
-### Arquivo em PDF para análise dos dados e visualização:
+### Relatório de Análise Financeira para fixação de conteúdos com:
 - Média de preço de venda e descontos;
 - Vendas realizadas no período informado;
 - Quantidade de vendas de produtos;
@@ -27,7 +27,7 @@
 
 - [Dashboard_Financeiro_Final](https://app.powerbi.com/view?r=eyJrIjoiYzhmMjQ2ZTItY2I1YS00OTg2LTgzNWItNzAwYWVjN2FhMjk0IiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
 
-### Itens explorados nos desafios:
+## Itens explorados nos desafios:
 - Estruturação bem definida; 
 - Botões de navegação que fornecem navegabilidade; 
 - Segmentadores utilizados e botões com imagem associado;
