@@ -24,7 +24,9 @@
 - [V2_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiMjcyYTcxYjAtZmVlNy00NGRkLWFhODItMTQzYTY4MDY4NDEyIiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
 
 - [UX_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiMTY0NWM3OTYtMmVlYy00MWQwLWE0MmMtODkyYWU0ZDI3NTVjIiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
-  
+
+- [Dashboard_Financeiro_Final](https://app.powerbi.com/view?r=eyJrIjoiYzhmMjQ2ZTItY2I1YS00OTg2LTgzNWItNzAwYWVjN2FhMjk0IiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
+
 ### Itens explorados nos desafios:
 - Estruturação bem definida; 
 - Botões de navegação que fornecem navegabilidade; 
@@ -42,3 +44,11 @@
 - Realizado adaptações e melhorias dentro do relatório;
 - Feito para auxiliar no processo de uso e entendimento dos dados;
 - UX necessário para inclusão e recepção a qualquer usuário que for visualizar o relatório.
+
+### Aplicando Análise de Dados com Power BI:
+-	Visuais sobre os TOP3 Produtos
+-	Principais países em termos de vendas e profit
+-	Gráfico de dispersão sobre Unidades vendidas e Vendas por mês
+-	Visuais de agrupamentos de dados
+-	Visuais de compartimentação dos dados
+
