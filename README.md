@@ -25,7 +25,7 @@
 
 - [UX_Dashboard_Financeiro](https://app.powerbi.com/view?r=eyJrIjoiMTY0NWM3OTYtMmVlYy00MWQwLWE0MmMtODkyYWU0ZDI3NTVjIiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
 
-- [Dashboard_Financeiro_Final](https://app.powerbi.com/view?r=eyJrIjoiYzhmMjQ2ZTItY2I1YS00OTg2LTgzNWItNzAwYWVjN2FhMjk0IiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
+- [Dashboard_Financeiro_Final](https://app.powerbi.com/view?r=eyJrIjoiMDNhMmFhZTItMWQ1Ni00ODA3LWI5M2YtYmVmY2I2MTI2YWEyIiwidCI6IjM0ZmFiYWU3LWM4Y2MtNDA5Mi1hNGM5LTYyNDE4YzU3NTViNSJ9)
 
 ## Itens explorados nos desafios:
 - Estruturação bem definida; 
